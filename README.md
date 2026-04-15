@@ -7,3 +7,5 @@
 <img width="792" height="138" alt="image" src="https://github.com/user-attachments/assets/bf182736-50ad-420f-b0c1-ab4070579bed" />
 
 중요
+
+7장 10페이지까지 중간고사 범위
