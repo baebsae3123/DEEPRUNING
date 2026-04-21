@@ -38,3 +38,6 @@ RNN 이코드를 중간고사에서 물어봄
 
 4. 자연어처리 코드(텍스트를 입력받아 긍정 부정을 출력하는 코드)
 5.LSTM 이용한 뉴스 카테고리를 분류 하는 RNN 딥러닝 모델 코드
+
+<img width="759" height="336" alt="image" src="https://github.com/user-attachments/assets/7705bf9e-ad0d-451c-8f49-1425fc1cd906" />
+
